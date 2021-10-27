@@ -4,3 +4,5 @@
 fa schifo ma ci gioco lo stesso -.-
 
 ![yasuo in sedia a rotelle](https://pbs.twimg.com/media/EjF4sR0WoAELx_7.jpg)
+
+#### *tipico yasuo main*
