@@ -10,3 +10,5 @@ fa schifo ma ci gioco lo stesso -.-
 #### *tipico yasuo main*
 
 ### best iron player -> https://www.leagueofgraphs.com/summoner/euw/luca+hu#championsData-all-queues
+
+## Moridica da gitbash
