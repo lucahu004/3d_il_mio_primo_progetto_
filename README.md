@@ -15,3 +15,5 @@ fa schifo ma ci gioco lo stesso -.-
 
 modifica git bash interrogazione
 
+modifica visual studio code
+
