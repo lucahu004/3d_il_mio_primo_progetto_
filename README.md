@@ -11,4 +11,7 @@ fa schifo ma ci gioco lo stesso -.-
 
 ### best iron player -> https://www.leagueofgraphs.com/summoner/euw/luca+hu#championsData-all-queues
 
-## Moridica da gitbash
+## Modifica da gitbash
+
+modifica git bash interrogazione
+
